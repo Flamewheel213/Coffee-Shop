@@ -9,5 +9,6 @@ namespace CoffeeShop.Classes
     {
         //Holds Customers, Stats, Queue
         //Update
+        public GeoModel() { }
     }
 }
