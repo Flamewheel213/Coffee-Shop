@@ -1,0 +1,11 @@
+H:\PASS5\CoffeeShop\CoffeeShop\bin\x86\Debug\CoffeeShop.exe
+H:\PASS5\CoffeeShop\CoffeeShop\bin\x86\Debug\CoffeeShop.pdb
+H:\PASS5\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.csprojResolveAssemblyReference.cache
+H:\PASS5\CoffeeShop\CoffeeShop\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+H:\PASS5\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.exe
+H:\PASS5\CoffeeShop\CoffeeShop\obj\x86\Debug\CoffeeShop.pdb
+H:\PASS5\CoffeeShop\CoffeeShop\bin\x86\Debug\Content\Statsfont.xnb
+H:\PASS5\CoffeeShop\CoffeeShop\bin\x86\Debug\Content\Resources\Both Sprite.xnb
+H:\PASS5\CoffeeShop\CoffeeShop\bin\x86\Debug\Content\Resources\Cashier Sprite.xnb
+H:\PASS5\CoffeeShop\CoffeeShop\bin\x86\Debug\Content\Resources\Coffee Sprite.xnb
+H:\PASS5\CoffeeShop\CoffeeShop\bin\x86\Debug\Content\Resources\Food Sprite.xnb

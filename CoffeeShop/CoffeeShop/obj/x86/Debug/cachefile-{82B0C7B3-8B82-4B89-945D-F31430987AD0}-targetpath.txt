@@ -1,0 +1,5 @@
+Content\Statsfont.xnb
+Content\Resources\Both Sprite.xnb
+Content\Resources\Cashier Sprite.xnb
+Content\Resources\Coffee Sprite.xnb
+Content\Resources\Food Sprite.xnb
